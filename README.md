@@ -61,6 +61,6 @@ public class StudentMsgBean {
   @NotNull：设置数据库表当前列不能为空
   @Transient：添加此标记后不会生成数据库表的列
 
-
+<img src="https://raw.githubusercontent.com/yikwing/ljkplayer_demo/master/image/qrcode.gif" width="600" height="500">
 
 
